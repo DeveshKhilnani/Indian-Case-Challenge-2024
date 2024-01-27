@@ -1,5 +1,5 @@
 # Indian-Case-Challenge-2024
-My team made it to the Top 10 amongst 1500+ teams. You can find the problem statement and our proposed solution deck in this repo
+My team Consulzio made it to the Top 10 amongst 1500+ teams in the Indian Case Challenge 2024 conducted by Business Club IIT KGP. You can find the problem statement and our proposed solution deck in this repo
 
 # Round 1
 The first round case consisted of developing a Revenue model for GPT Store, solving the problem of oversaturation, Acquisition strategy of AI Chip design companies and GTM Strategy for OpenAI
